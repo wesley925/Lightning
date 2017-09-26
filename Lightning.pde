@@ -1,6 +1,6 @@
 void setup(){
   size(600,600);
-  frameRate(6000);
+  frameRate(60);
   background(255);
 }
 int x1=(int)(Math.random()*601);
